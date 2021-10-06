@@ -5,4 +5,9 @@ body {
 form {
     margin: 20px;
     padding: 30px;
+    background: linear-gradient(90deg, rgba(2,105,154,1) 0%, rgba(9,121,46,1) 24%, rgba(0,255,201,1) 100%);
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    color:blue;
 }
